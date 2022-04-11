@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-custom {
+    background: linear-gradient(to right, #360033, #0b8793);;
+}
